@@ -1,0 +1,2 @@
+In this task, I predict the sales volume for cans of Coca-Cola. There is very little data, so I use simple methods for prediction. The seasonal pattern is clearly visible in the data for all purchases. However, for some regions the data are so scarce that ARIMA models show better results reaching a plateau. I think it's also worth making predictions using the seasonal decomposition and the hourly average.
+For regions with very little data, I use the average prediction.
